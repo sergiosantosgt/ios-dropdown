@@ -1,0 +1,16 @@
+PODS:
+  - iOSDropDown (0.3.4)
+
+DEPENDENCIES:
+  - iOSDropDown (from `../`)
+
+EXTERNAL SOURCES:
+  iOSDropDown:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSDropDown: e43352ed40f3a7551fe23e14d9fe6cf9bb00c1ff
+
+PODFILE CHECKSUM: 54cfe575c445c2b89e3257b1659dc330cf88d985
+
+COCOAPODS: 1.9.3
